@@ -1,0 +1,3 @@
+/home/iseufsif/dev/drispi/ext/filo/build/CMakeFiles/filo.dir
+/home/iseufsif/dev/drispi/ext/filo/build/CMakeFiles/edit_cache.dir
+/home/iseufsif/dev/drispi/ext/filo/build/CMakeFiles/rebuild_cache.dir
