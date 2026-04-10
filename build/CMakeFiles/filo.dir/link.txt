@@ -1,1 +1,0 @@
-/usr/bin/c++  -Wall -Wextra -Wpedantic -Wuninitialized -O3 -DNDEBUG -O3 -march=native -ffat-lto-objects -flto -fwhole-program CMakeFiles/filo.dir/main.cpp.o -o filo  /usr/local/lib/libcobra-1.0.0.a 
